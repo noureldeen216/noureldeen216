@@ -15,4 +15,4 @@ You can check out my open-source work and software releases right here on my Git
 **Fun Facts:**
 * 💻 Passionate about building lightweight, practical Python utilities.
 * 🎧 Big fan of breakbeat, funk, rock, nu-metal, and pop-punk music.
-* 👾 Big enthusiast for retro aesthetics, Y2K culture, and Underground Vibes
+* 👾 Big enthusiast for retro aesthetics, Y2K culture, and More.

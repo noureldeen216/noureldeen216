@@ -1,5 +1,4 @@
- ```python
-print("Hello, World!")
+## Hi There! 👋
 
 I'm **Nour Eldeen**, an indie software developer based in Egypt 🇪🇬
 
@@ -9,11 +8,11 @@ If an idea pops into my head, chances are I'll build it and ship it.
 
 My main tech stack centers on **Python** and **Tkinter**, paired with **VS Code** and AI tools like **Gemini** to streamline my workflow.
 
-I've got a bunch of pinned projects, but my favorite is **PyNoot** (باي نطق)—an open-source Python library to teach programming logic using simple Arabic commands. Some of my other projects include desktop applications such as a cheat trainer tool, alongside many more.
+I've got a bunch of pinned projects, but my favorite is **PyNoot** (باي نطق) Python library to teach programming logic using simple Arabic commands. Some of my other projects include desktop applications such as a cheat trainer For Some Games tool, alongside many more.
 
 You can check out my open-source work and software releases right here on my GitHub profile.
 
 **Fun Facts:**
 * 💻 Passionate about building lightweight, practical Python utilities.
 * 🎧 Big fan of breakbeat, funk, rock, nu-metal, and pop-punk music.
-* 👾 Big enthusiast for retro aesthetics, Y2K culture, and classic animation.
+* 👾 Big enthusiast for retro aesthetics, Y2K culture, and Underground Vibes
